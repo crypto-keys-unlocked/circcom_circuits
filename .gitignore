@@ -1,0 +1,13 @@
+*.r1cs
+*.sym
+*.wasm
+*.zkey
+*.wtns
+*.ptau
+*.json
+
+*/_js/
+
+!input.json
+
+.DS_Store
