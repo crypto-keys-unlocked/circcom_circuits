@@ -1,3 +1,4 @@
+# Ignore all generated files
 *.r1cs
 *.sym
 *.wasm
@@ -5,9 +6,16 @@
 *.wtns
 *.ptau
 *.json
+*.js
 
-*/_js/
+# Track .circom files
+!*.circom
 
+# Ignore all _js directories in any subfolder
+**/_js/
+
+# Allow specific JSON files, for example input.json
 !input.json
 
+# Ignore macOS-specific files
 .DS_Store

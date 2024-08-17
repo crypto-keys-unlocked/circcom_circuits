@@ -7,10 +7,10 @@ This document provides a list of exercises for practicing with Circom and zk-SNA
 - [x] **Simple Addition Circuit**  
   Create a circuit that takes two inputs and outputs their sum. 
 
-- [ ] **Simple Multiplication Circuit**  
+- [x] **Simple Multiplication Circuit**  
   Create a circuit that multiplies two inputs and outputs the result.
 
-- [ ] **Boolean AND Circuit**  
+- [x] **Boolean AND Circuit**  
   Create a circuit that performs a logical AND operation on two boolean inputs.
 
 - [ ] **Boolean OR Circuit**  
